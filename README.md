@@ -2,42 +2,56 @@
 
 # Muhammad Syafiq Andiansyah
 
-### Game Programmer • Unity • C# • Game Technology Student at PENS
+### Game Programmer • Unity • C# • Game Technology Student
+
+[![GitHub followers](https://img.shields.io/github/followers/syafiqqand?style=for-the-badge&logo=github&label=Followers)](https://github.com/syafiqqand)
+[![Profile views](https://komarev.com/ghpvc/?username=syafiqqand&style=for-the-badge)](https://github.com/syafiqqand)
 
 </div>
 
 ---
 
-> Building gameplay systems, technical features, and interactive game prototypes.
+## About
 
-## About Me
-
-- Game programmer with a strong focus on Unity development
-- Interested in gameplay systems, AI behavior, and game architecture
-- Comfortable working on both solo and collaborative game projects
-- Currently studying Game Technology at PENS
+Game programmer focused on gameplay systems, technical features, and interactive prototypes.  
+Interested in Unity development, AI behavior, and clean game architecture.
 
 ## Tech Stack
 
-**Programming:** C, C++, C#, SQL  
-**Tools & Engine:** Unity Engine, Notion, Miro
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
 
 ## Featured Projects
 
-**Crogue**  
-Roguelike action project where I worked on technical art, shaders, visual effects, UI, assets, and sound.
+### BeCan
+Tactical Unity project focused on unit systems for both player characters and AI enemies.
 
-**Way Of Life**  
-Local multiplayer game project with event system and local multiplayer implementation.
+### Crogue
+Roguelike action project with focus on gameplay systems, shaders, VFX, UI, and technical implementation.
 
-**Mbah SHO**  
-Android game project where I handled NPC behavior and UI.
+### Cloud Farer
+Interactive gameplay project with emphasis on mechanics and player experience.
 
-**Shutter Spirit**  
-Game jam project where I worked on camera effects, visual effects, SFX, and background music.
+### Way of Life
+Local multiplayer project with event-driven systems and gameplay-focused design.
 
-**Saber X-mas Hockey**  
-2D arcade local multiplayer game project focused on core mechanics and systems.
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=syafiqqand&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syafiqqand&layout=compact&hide_border=true&theme=tokyonight" />
+
+</div>
+
+---
 
 ## Contact
 
@@ -46,22 +60,3 @@ Game jam project where I worked on camera effects, visual effects, SFX, and back
 - Email: `msyafiqa18@gmail.com`
 
 <div align="center">
-
-*Minimal. Clean. Built to play. *
-
-</div>
-
-<!--
-**Syafiqqand/Syafiqqand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
