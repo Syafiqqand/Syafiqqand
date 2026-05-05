@@ -2,18 +2,18 @@
 
 # Muhammad Syafiq Andiansyah
 
-### Game Programmer • Unity • C# • Game Technology Student
+### Game Programmer • Unity • Game Technology Student
 
 <br>
 
-<a href="https://www.linkedin.com/in/muhammad-syafiq-andiansyah/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/muhammad-syafiq-andiansyah/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://muhammad-syafiq.itch.io/">
-  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+<a href="https://muhammad-syafiq.itch.io/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </a>
-<a href="https://syafiqqand.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://syafiqqand.github.io/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
@@ -27,14 +27,9 @@ Interested in Unity development, AI behavior, and clean game architecture.
 
 ## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,unity,vscode,github,notion" />
+</div>
 
 ## Featured Projects
 
