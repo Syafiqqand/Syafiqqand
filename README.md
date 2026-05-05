@@ -43,8 +43,8 @@ Local multiplayer project with event-driven systems and gameplay-focused design.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=syafiqqand&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syafiqqand&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Syafiqqand&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syafiqqand&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 </div>
 
