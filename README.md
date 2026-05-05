@@ -4,17 +4,13 @@
 
 ### Game Programmer • Unity • Game Technology Student
 
-<br>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/muhammad-syafiq-andiansyah/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://muhammad-syafiq.itch.io/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
-</a>
-<a href="https://syafiqqand.github.io/" target="_blank" rel="noreferrer" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-syafiq-andiansyah/)
+&nbsp;
+[![Itch.io](https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://muhammad-syafiq.itch.io/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://syafiqqand.github.io/)
 
 </div>
 
