@@ -24,9 +24,6 @@
 
 ## Featured Projects
 
-**BeCan**  
-Unity tactical game project with my main contribution focused on the unit system for both player characters and AI enemies.
-
 **Crogue**  
 Roguelike action project where I worked on technical art, shaders, visual effects, UI, assets, and sound.
 
