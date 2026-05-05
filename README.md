@@ -19,7 +19,6 @@
 ## About
 
 Game programmer focused on gameplay systems, technical features, and interactive prototypes.  
-Interested in Unity development, AI behavior, and clean game architecture.
 
 ## Tech Stack
 
@@ -30,7 +29,7 @@ Interested in Unity development, AI behavior, and clean game architecture.
 ## Featured Projects
 
 ### BeCan
-Tactical Unity project focused on unit systems for both player characters and AI enemies.
+A turn-based tactical game developed in Unity, focused on an event-driven architecture and unit system for player characters and enemies.
 
 ### Crogue
 Roguelike action project with focus on gameplay systems, shaders, VFX, UI, and technical implementation.
