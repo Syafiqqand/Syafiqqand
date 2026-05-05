@@ -4,9 +4,6 @@
 
 ### Game Programmer • Unity • C# • Game Technology Student
 
-[![GitHub followers](https://img.shields.io/github/followers/syafiqqand?style=for-the-badge&logo=github&label=Followers)](https://github.com/syafiqqand)
-[![Profile views](https://komarev.com/ghpvc/?username=syafiqqand&style=for-the-badge)](https://github.com/syafiqqand)
-
 </div>
 
 ---
@@ -46,8 +43,8 @@ Local multiplayer project with event-driven systems and gameplay-focused design.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=syafiqqand&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syafiqqand&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=syafiqqand&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syafiqqand&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 </div>
 
@@ -58,5 +55,3 @@ Local multiplayer project with event-driven systems and gameplay-focused design.
 - GitHub: [syafiqqand](https://github.com/syafiqqand)
 - Instagram: [@syafiqqand](https://www.instagram.com/syafiqqand/)
 - Email: `msyafiqa18@gmail.com`
-
-<div align="center">
