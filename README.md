@@ -4,7 +4,7 @@
 
 ### Game Programmer • Unity • Game Technology Student
 
-<div align="center">
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-syafiq-andiansyah/)
 &nbsp;
