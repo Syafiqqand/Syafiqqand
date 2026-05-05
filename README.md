@@ -16,11 +16,12 @@ Interested in Unity development, AI behavior, and clean game architecture.
 ## Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ## Featured Projects
@@ -43,8 +44,8 @@ Local multiplayer project with event-driven systems and gameplay-focused design.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syafiqqand&show_icons=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=syafiqqand&layout=compact&theme=tokyonight" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=syafiqqand&show_icons=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syafiqqand&layout=compact&theme=tokyonight" />
 
 </div>
 
