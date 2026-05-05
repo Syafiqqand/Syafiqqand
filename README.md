@@ -4,6 +4,18 @@
 
 ### Game Programmer • Unity • C# • Game Technology Student
 
+<br>
+
+<a href="https://www.linkedin.com/in/muhammad-syafiq-andiansyah/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://muhammad-syafiq.itch.io/">
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+</a>
+<a href="https://syafiqqand.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 </div>
 
 ---
