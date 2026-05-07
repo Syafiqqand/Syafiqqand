@@ -46,7 +46,7 @@ Local multiplayer project with event-driven systems and gameplay-focused design.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=syafiqqand&theme=tokyonight&hide_border=true&stroke=0000&ring=00E7FF&fire=8B5CF6&currStreakNum=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=syafiqqand&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=A371F7&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=A371F7&sideLabels=8B949E&dates=7EE787&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
