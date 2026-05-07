@@ -46,8 +46,7 @@ Local multiplayer project with event-driven systems and gameplay-focused design.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=syafiqqand&show_icons=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syafiqqand&layout=compact&theme=tokyonight" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=syafiqqand&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
