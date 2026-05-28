@@ -18,7 +18,7 @@
 
 ## About
 
-Game programmer focused on gameplay systems, technical features, and interactive prototypes.  
+I am a Game Programmer experienced with the Unity Engine, currently studying Game Technology at PENS (Politeknik Elektronika Negeri Surabaya).  
 
 ## Tech Stack
 
